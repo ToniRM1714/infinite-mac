@@ -44,4 +44,9 @@ Una vez configurado, tienes varias formas de usarlo:
 ## Solución de problemas comunes
 
 -   **"Error: Connection Refused":** Asegúrate de que ComfyUI esté abierto y funcionando en otra ventana.
--   **Imágenes negras o error de memoria:** ComfyUI consume mucha potencia. Si tienes LM Studio abierto a la vez con un modelo muy grande, es posible que tu Mac se quede sin memoria (VRAM). Prueba a usar un modelo más pequeño en LM Studio si esto ocurre.
+-   **"Could not validate comfyUI API":** Este error indica que SillyTavern detecta algo en esa dirección, pero no recibe la respuesta correcta. Prueba esto:
+    1.  Verifica que puedes abrir `http://127.0.0.1:8188` en tu navegador y que ves la interfaz de ComfyUI.
+    2.  Asegúrate de tener al menos un modelo descargado en la carpeta `ComfyUI/models/checkpoints`. Si la carpeta está vacía, la API puede dar error.
+    3.  Prueba a cambiar la dirección de `http://127.0.0.1:8188` a `http://localhost:8188`.
+    4.  Reinicia ComfyUI y asegúrate de que no haya otros programas usando ese mismo puerto.
+-   **Imágenes negras o error de memoria:** ComfyUI consume mucha potencia. Si tienes LM Studio abierto a la vez con un modelo muy grande, es posible que tu Mac se quede sin memoria (VRAM). Prueba a usar un modelo más pequeño en LM Studio si esto ocurre o cierra momentáneamente SillyTavern para liberar espacio.
