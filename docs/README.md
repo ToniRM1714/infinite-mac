@@ -8,4 +8,5 @@ This directory contains specific guides for installation and configuration.
 - [Guia d'instal·lació a macOS i configuració d'LM Studio (Català)](guia-installacio-mac-catala.md)
 
 ### Extensions & Extra Features
+- [Guía de Generación de Imágenes con Draw Things (Español)](guia-generacion-imagenes-drawthings.md)
 - [Guía de Generación de Imágenes con ComfyUI (Español)](guia-generacion-imagenes-comfyui.md)

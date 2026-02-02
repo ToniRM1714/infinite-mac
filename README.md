@@ -12,6 +12,7 @@ We have added specific guides to help users with common setup scenarios:
 - [macOS Installation & LM Studio Setup Guide (English)](docs/macos-installation-guide.md)
 - [Guía de Instalación en macOS y Configuración con LM Studio (Español)](docs/guia-instalacion-mac-espanol.md)
 - [Guia d'instal·lació a macOS i configuració d'LM Studio (Català)](docs/guia-installacio-mac-catala.md)
+- [Guía de Generación de Imágenes con Draw Things (Español)](docs/guia-generacion-imagenes-drawthings.md)
 - [Guía de Generación de Imágenes con ComfyUI (Español)](docs/guia-generacion-imagenes-comfyui.md)
 
 ## Features
