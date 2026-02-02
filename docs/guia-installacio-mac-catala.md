@@ -43,9 +43,9 @@ Un cop iniciat, SillyTavern estarà disponible al teu navegador a `http://localh
 3. Estableix l'**API Type** a `Chat Completion`.
 4. Estableix el **Chat Completion Source** a `Custom (OpenAI-compatible)`.
 5. Al camp **URL**, introdueix l'adreça del servidor d'LM Studio: `http://localhost:1234/v1`.
-5. Al camp **API Key**, escriu qualsevol cosa (per exemple: `123`). Encara que digui opcional, a vegades SillyTavern ho necessita per connectar.
-6. Fes clic a **Connect**.
-7. Un cop connectat, **selecciona el teu model** al desplegable **Model**. Si no el selecciones, el xat no funcionarà.
+ 6. Al camp **API Key**, escriu qualsevol cosa (per exemple: `123`). Encara que digui opcional, a vegades SillyTavern ho necessita per connectar.
+ 7. Fes clic a **Connect**.
+ 8. Un cop connectat, **selecciona el teu model** al desplegable **Model**. Si no el selecciones, el xat no funcionarà.
 
 ## Xatejar en Castellà (Espanyol)
 
@@ -54,3 +54,29 @@ Sí, pots xatejar en castellà sense cap problema! Aquí tens alguns consells:
 - **Configuració del Personatge**: Pots editar la "Descripció" o el "Escenari" del teu personatge per especificar que la conversa ha de ser en espanyol.
 - **Persona de l'usuari**: A SillyTavern, pots crear una "User Persona" (icona d'usuari a l'esquerra) i especificar que prefereixes comunicar-te en castellà.
 - **Extensió de traducció**: SillyTavern inclou una extensió de traducció integrada (accessible des del menú Extensions) que pot traduir automàticament els missatges si cal.
+
+---
+
+## Com tornar a obrir SillyTavern (Reiniciar)
+
+SillyTavern s'atura quan tanques el Terminal o apagues el Mac. Per tornar-lo a obrir:
+
+1. Obre el **Terminal**.
+2. Escriu `cd SillyTavern` i prem Enter.
+3. Escriu `./start.sh` i prem Enter.
+
+### Crear un accés directe (Botó d'inici ràpid)
+
+Per no haver d'escriure comandes cada vegada, pots crear un fitxer ".command":
+
+1. Obre **TextEdit** i ves a **Format > Converteix en text planer**.
+2. Enganxa aquest contingut:
+   ```bash
+   #!/bin/bash
+   cd -- "$(dirname "$0")"
+   ./start.sh
+   ```
+3. Desa'l com a `IniciarST.command` dins de la carpeta SillyTavern.
+4. Al **Terminal**, escriu això una vegada per donar-li permís: `chmod +x ~/SillyTavern/IniciarST.command`
+
+Ara podràs iniciar el programa fent **doble clic** en aquest fitxer.

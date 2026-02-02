@@ -76,3 +76,29 @@ Para que la IA te responda siempre en español:
 - **Tu perfil**: Haz clic en el icono de "User" (a la izquierda) y en tu descripción pon que prefieres hablar en castellano.
 
 ¡Ya está! Ahora puedes elegir un personaje o crear uno nuevo y empezar a chatear.
+
+---
+
+## Cómo volver a abrir SillyTavern (Reiniciar)
+
+SillyTavern se detiene cuando cierras el Terminal o apagas el Mac. Para volver a abrirlo:
+
+1. Abre el **Terminal**.
+2. Escribe `cd SillyTavern` y pulsa Enter.
+3. Escribe `./start.sh` y pulsa Enter.
+
+### Crear un acceso directo (Botón de inicio rápido)
+
+Para no tener que escribir comandos cada vez, puedes crear un archivo ".command":
+
+1. Abre **TextEdit** y ve a **Formato > Convertir a texto sencillo**.
+2. Pega este contenido:
+   ```bash
+   #!/bin/bash
+   cd -- "$(dirname "$0")"
+   ./start.sh
+   ```
+3. Guárdalo como `IniciarST.command` dentro de la carpeta SillyTavern.
+4. En el **Terminal**, escribe esto una vez para darle permiso: `chmod +x ~/SillyTavern/IniciarST.command`
+
+Ahora podrás iniciar el programa haciendo **doble clic** en ese archivo.

@@ -54,3 +54,29 @@ You can definitely chat in Spanish! Here are some tips:
 - **Character Configuration**: You can edit your character's "Description" or "Scenario" to specify that the conversation should be in Spanish.
 - **User Persona**: In SillyTavern, you can create a "User Persona" (User icon on the left) and specify that you prefer to communicate in Spanish.
 - **Translation Extension**: SillyTavern includes a built-in translation extension (accessible via the Extensions menu) that can automatically translate incoming and outgoing messages if needed.
+
+---
+
+## How to Restart SillyTavern
+
+SillyTavern stops when you close the Terminal window or restart your Mac. To start it again:
+
+1. Open **Terminal**.
+2. Type `cd SillyTavern` and press Enter.
+3. Type `./start.sh` and press Enter.
+
+### Create a Shortcut (Quick Start Button)
+
+To avoid typing commands every time, you can create a ".command" file:
+
+1. Open **TextEdit** and go to **Format > Make Plain Text**.
+2. Paste the following:
+   ```bash
+   #!/bin/bash
+   cd -- "$(dirname "$0")"
+   ./start.sh
+   ```
+3. Save it as `StartST.command` inside your SillyTavern folder.
+4. In the **Terminal**, run this once to give it permission: `chmod +x ~/SillyTavern/StartST.command`
+
+Now you can start SillyTavern by **double-clicking** this file.
