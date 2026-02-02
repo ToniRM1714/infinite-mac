@@ -61,8 +61,9 @@ Ahora vamos a decirle a SillyTavern que use el cerebro de LM Studio:
 2. Donde pone **"API Type"**, selecciona **"Chat Completion"**.
 3. Donde pone **"Chat Completion Source"**, selecciona **"Custom (OpenAI-compatible)"**.
 4. En el recuadro de **"URL"**, escribe esto: `http://localhost:1234/v1`
-5. Haz clic en el botón **"Connect"**.
-6. Justo debajo, en **"Model"**, selecciona tu modelo en el desplegable.
+5. En el cuadro de **"API Key"**, escribe cualquier cosa (por ejemplo: `123`). Aunque ponga opcional, a veces SillyTavern lo necesita para conectar.
+6. Haz clic en el botón **"Connect"**.
+7. Justo debajo, en **"Model"**, **selecciona tu modelo** en el desplegable. Si no lo seleccionas, el chat no funcionará.
 
 ---
 

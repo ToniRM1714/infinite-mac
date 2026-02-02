@@ -43,8 +43,9 @@ Un cop iniciat, SillyTavern estarà disponible al teu navegador a `http://localh
 3. Estableix l'**API Type** a `Chat Completion`.
 4. Estableix el **Chat Completion Source** a `Custom (OpenAI-compatible)`.
 5. Al camp **URL**, introdueix l'adreça del servidor d'LM Studio: `http://localhost:1234/v1`.
+5. Al camp **API Key**, escriu qualsevol cosa (per exemple: `123`). Encara que digui opcional, a vegades SillyTavern ho necessita per connectar.
 6. Fes clic a **Connect**.
-7. Un cop connectat, selecciona el teu model al desplegable **Model**.
+7. Un cop connectat, **selecciona el teu model** al desplegable **Model**. Si no el selecciones, el xat no funcionarà.
 
 ## Xatejar en Castellà (Espanyol)
 

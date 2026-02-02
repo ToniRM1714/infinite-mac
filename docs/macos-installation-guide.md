@@ -43,8 +43,9 @@ Once started, SillyTavern will be available in your browser at `http://localhost
 3. Set **API Type** to `Chat Completion`.
 4. Set **Chat Completion Source** to `Custom (OpenAI-compatible)`.
 5. In the **URL** field, enter the LM Studio server address: `http://localhost:1234/v1`.
-6. Click **Connect**.
-7. Once connected, select your model in the **Model** dropdown.
+6. In the **API Key** field, enter any text (e.g., `123`). Although marked as optional, SillyTavern sometimes requires it to establish the connection.
+7. Click **Connect**.
+8. Once connected, **select your model** in the **Model** dropdown. If you don't select a model, the chat will not work.
 
 ## Chatting in Spanish (Castellano)
 
