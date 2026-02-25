@@ -1,0 +1,194 @@
+Manual de Instrucciones de la Grabadora
+Por favor, lea el manual antes de usarla.
+
+Página 1
+
+Declaración:
+1. En primer lugar, ¡gracias por utilizar los productos digitales de nuestra empresa!
+2. Por favor, lea el manual antes del uso para un manejo adecuado del mismo.
+3. En cuanto a la información, por favor realice su propia copia de seguridad. Nuestra empresa no se hace responsable de ninguna pérdida de datos causada por el funcionamiento anormal del software, hardware, reparación del producto, cambio de batería u otros accidentes, así como la pérdida causada indirectamente por estas razones. Asimismo, no podemos controlar los posibles malentendidos del manual por parte del cliente. Por lo tanto, nuestra empresa no se hará cargo de los daños accidentales causados por el uso de este manual, ni de la reclamación de indemnización de terceros causada por el uso de este manual. (El sistema del producto ocupará parte de la memoria, por lo que es normal que haya alguna diferencia con la memoria estándar).
+
+Nota:
+1. Por favor, no intente abrir, reparar o modificar el producto.
+2. Por favor, no utilice este producto en regiones con señales de prohibición de uso de productos electrónicos (como aviones, etc.).
+3. Por favor, no introduzca el producto o sus accesorios en la boca.
+4. Por favor, no introduzca el producto en agua u otros líquidos.
+
+Página 2
+
+5. Por favor, no utilice este producto en entornos especialmente fríos, calurosos, húmedos o polvorientos.
+
+Advertencias:
+1. No deje caer el producto ni sus piezas para evitar averías.
+2. No exponga el producto a la luz intensa o al calor para prolongar su vida útil.
+3. Cárguelo ocasionalmente si no lo va a utilizar durante un largo periodo de tiempo para evitar que la batería pierda su función.
+4. Para prolongar la vida útil de la batería, no la utilice mientras se esté cargando.
+5. No fuerce la extracción ni mueva de arriba abajo o de lado a lado al conectar accesorios (por ejemplo: auriculares, micrófono, conexión USB, etc.).
+6. Esta máquina es una herramienta de aprendizaje; nuestra empresa quedará exenta de cualquier responsabilidad legal causada por el uso económico o comercial.
+7. No lo coloque en un entorno de más de 60°C (como una sauna o dentro de un coche cerrado), ya que podría alcanzar los 80°C dentro del coche.
+8. Nuestra empresa no se hace responsable de ninguna pérdida de datos al utilizar el producto o servicio. Por lo tanto, si hay información importante en la memoria del producto, por favor realice su propia copia de seguridad.
+9. Tenga en cuenta que este producto está prohibido para uso ilegal. Por ejemplo, para vulnerar la privacidad de otros o realizar escuchas telefónicas.
+
+Página 3
+
+Descripción de cada parte del producto:
+1: A-B (Repetición)
+2: Vol + (Volumen arriba / Siguiente)
+3: Vol - (Volumen abajo / Anterior)
+4: Puerto USB
+5: Toma de micrófono
+6: Tecla de grabación (Record)
+7: Orificio para colgar
+8: Toma de auriculares
+9: Luz de grabación
+10: Pantalla
+11: Tecla de parada (Stop)
+12: Reproducir/Pausa (Play/Pause)
+13: Micrófono interno
+14: Tecla de menú (Menu)
+15: Reproducir Anterior (|<<)
+16: Reproducir Siguiente (>>|)
+17: Tecla de encendido (Power)
+
+Método de aplicación básico:
+- Sección de funciones principales:
+1. Reproducción de grabaciones (Record play)
+2. Configuración del sistema (System settings)
+3. Música (Music)
+
+Página 4
+
+Especificación de operación de botones especiales:
+En el manual, aparecen frecuentemente "pulsación corta" y "pulsación larga", sus significados son los siguientes:
+1. Pulsación corta: Tras pulsar el botón, retire el dedo inmediatamente.
+2. Pulsación larga: Tras pulsar el botón, manténgalo pulsado un momento hasta que aparezca el contenido relacionado en pantalla.
+
+Método de aplicación básico:
+- Encendido:
+1. Compruebe si la batería interna de litio tiene carga suficiente.
+2. Coloque el interruptor en "ON"; tras la inicialización, aparecerá la pantalla con la "interfaz de reproducción de grabaciones".
+- Apagado:
+1. Cuando la máquina esté en modo espera (standby), póngala en "OFF" y la máquina se apagará.
+2. En estado de espera, pulse el botón "Play" de forma prolongada; la máquina se apagará tras mostrar "Bye-bye". Pero esta tecla solo puede apagar el estado de funcionamiento, no puede desconectar completamente la fuente de alimentación. Si no necesita apagar la tecla "Power Switch" (interruptor de encendido), puede lograr la función de ahorro de energía.
+3. La grabación se guardará automáticamente y se apagará cuando la batería se esté agotando.
+Nota: Por favor, detenga la máquina mediante "PLAY" y luego apague la alimentación mediante "OFF". Si apaga la alimentación directamente, se restablecerán los valores predeterminados.
+
+Página 5
+
+Grabación:
+1. Iniciar grabación: En cualquier estado de encendido, pulse brevemente "REC" para comenzar a grabar. En este punto, la luz indicadora de grabación permanecerá encendida. El contador de tiempo se moverá en la parte superior de la pantalla. Eso significa que está en modo de grabación.
+2. Detener grabación: Pulse brevemente "REC" o "PLAY" para pausar la grabación mientras graba. La luz indicadora y la cifra de tiempo en la parte superior de la pantalla parpadearán. Pulse brevemente "REC" o "PLAY" de nuevo para cancelar la pausa de la grabación.
+3. Guardar la grabación: Presione brevemente el botón "stop/return" (parar/volver) mientras graba. La pantalla mostrará "saved" (guardado). Irá al modo de espera de reproducción. Pulse brevemente "play" de nuevo para reproducir la grabación actual.
+
+Reproducción/Pausa:
+En el estado de inicio (BOOT), simplemente pulse el botón "UP" (arriba) o "DOWN" (abajo) para seleccionar la interfaz de "Grabación" (Record) o "Música" (Music). Pulse brevemente la tecla "MODE" para entrar en la interfaz de reproducción. Pulse brevemente el botón "PLAY" para comenzar a reproducir. Pulse brevemente "play" de nuevo para pausar/reproducir.
+
+Cambio de pista:
+En el modo de reproducción, pulse brevemente "UP" o "DOWN" para cambiar de pista.
+
+Página 6
+
+Cambio de modo música/grabación:
+En la interfaz del menú principal, mantenga pulsado "UP" o "DOWN" para alternar entre "Grabación" (Record) y "Música" (Music). Simplemente pulse el botón "MODE" para entrar en la interfaz de reproducción. Pulse brevemente "PLAY" para confirmar la reproducción.
+
+Control de Volumen:
+En el estado de reproducción, pulse brevemente el botón "VOL", luego pulse el botón "VOL+" o "VOL-" para subir o bajar el volumen cuando aparezca la barra de volumen en la pantalla. La barra de volumen mostrada en la pantalla también aumentará o disminuirá correspondientemente. Después de ajustar, pulse el botón "PLAY" para guardar y salir (si no hay acción durante 10 segundos, se guardará y saldrá automáticamente).
+
+Selección ARRIBA/ABAJO, avance rápido/retroceso rápido:
+En el modo de reproducción, simplemente pulse las teclas "UP" o "DOWN" para seleccionar el archivo anterior o el siguiente. Mantenga pulsada la tecla "UP" o "DOWN" para avanzar o retroceder rápidamente.
+
+Repetición A-B:
+En el modo de reproducción, pulse "DEL/A-B" una vez para establecer el punto de inicio de la repetición A. Pulse brevemente "DEL/A-B" de nuevo para establecer el punto final de la repetición B. En este punto, la pantalla muestra A-B. Pulse la tecla "DEL/A-B" de nuevo para repetir la función entre los dos puntos A-B. Una pulsación corta de la tecla "DEL/A-B" saldrá del modo de repetición A-B. (Por defecto, se repite 5 veces automáticamente antes de volver a la reproducción normal).
+
+Página 7
+
+Borrar:
+1. Borrado individual: Pulse brevemente "DEL/A-B" para entrar en la opción de borrado en la pantalla de espera o pausa. Pulse la tecla "UP" o "DOWN" para seleccionar (Borrar uno, Borrar todo, Salir de ajustes). Luego simplemente pulse el botón "MODE" para entrar. Pulse "UP" o "DOWN" para seleccionar "SÍ" (YES), luego pulse brevemente el botón "MODE" para confirmar el borrado. La pantalla mostrará "delete..." (borrando...).
+2. Borrarlos todos: La acción es la misma que el borrado individual.
+3. Abortar borrado: Para abandonar el borrado, puede elegir "No" para salir sin borrar. Or simplemente pulse el botón "stop/return" para salir.
+Advertencia: La operación de borrado es permanente. El archivo no se recuperará. Por favor, tenga cuidado al borrar archivos.
+
+Ajustes de reproducción:
+Simplemente pulse el botón "MODE" para entrar en el menú de ajustes en el estado de reproducción (Modo de reproducción, Ajustes de repetición, Reproducción de velocidad variable, Ecualizador). Pulse brevemente la tecla "UP" o "DOWN" para seleccionar.
+
+Página 8
+
+1. Modo de reproducción: Pulse brevemente el botón "MODE" para entrar en la selección de modo. Luego pulse brevemente "UP" o "DOWN" para elegir (Repetir 1, Repetir todo, Aleatorio). Pulse la tecla "MODE" para determinar.
+2. Ajustes de repetición: Pulse brevemente el botón "MODE" para entrar en el modo de ajustes de repetición. Pulse "UP" o "DOWN" para elegir (Modo de repetición, Veces de repetición, Intervalo de repetición). Pulse brevemente el botón "MODE" para entrar. Pulse brevemente el botón "MODE" para confirmar después de haber realizado los ajustes necesarios.
+3. Reproducción a velocidad variable: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente el botón "VOL+" o "VOL-" para seleccionar (ajustable de -8 a 8). Al nivel deseado y luego pulse brevemente la tecla "MODE" para confirmar.
+4. Ecualizador: Pulse brevemente la tecla "MODE" para entrar en los ajustes del MODO de sonido. Pulse la tecla "UP" o "DOWN" para seleccionar (Desactivado, Rock, Suave, Pop, Jazz, Clásica, Techno). Pulse el botón "MODE" para confirmar.
+
+Configuración del sistema (Ajustes SYS):
+En la interfaz del menú principal, simplemente pulse las teclas "UP" o "DOWN" para seleccionar los ajustes del sistema. Pulse brevemente el botón "MODE" para entrar en el menú de ajustes. Pulse brevemente la tecla "UP" o "DOWN" para seleccionar.
+1. Ajustes de fecha y hora: Pulse brevemente el botón "UP" o "DOWN" para entrar (Ajuste de fecha, Ajuste de hora). Seleccione el ajuste de fecha y tras una pulsación corta, pulse la tecla "UP" o "DOWN" para seleccionar el año/mes/día. Pulse "VOL+" o "VOL-" para ajustar el número. Después de seleccionar el ajuste de hora, simplemente pulse las teclas "UP" o "DOWN" para seleccionar horas/minutos/segundos. Pulse "VOL+" o "VOL-" para ajustar el número. Tras finalizar, pulse brevemente la tecla "MODE" para confirmar.
+
+Página 9
+
+2. Tiempo del salvapantallas (Tiempo de reposo): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente la tecla "UP" o "DOWN" para seleccionar (Siempre encendido, 10 segundos, 20 segundos, 30 segundos). Luego pulse brevemente el botón "MODE" para confirmar.
+3. Ajustes de grabación: Pulse brevemente la tecla "MODE" para entrar en los ajustes de grabación. Pulse la tecla "UP" o "DOWN" para seleccionar (Formato de grabación, establecer tasa de bits de grabación, Grabar desde, Subsección de grabación, modo AVR, Ajuste de monitor, Indicador de grabación, Grabación programada).
+   (1) Tasa de bits de grabación: Pulse brevemente "MODE" para entrar. Pulse brevemente "UP" or "DOWN" para seleccionar (WAV, formato: 32Kbps, 128Kbps, 192Kbps, 512Kbps, 768Kbps, 1024Kbps, 1536Kbps. Cuanto mayor sea la tasa de muestreo, mejor será la calidad de grabación y mayor el consumo de energía; cuanto menor sea la tasa de muestreo, peor será la calidad y menor el consumo). Pulse "MODE" de nuevo para confirmar.
+   (2) Grabación en segmentos: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (desactivado, 30 minutos, 60 minutos, 120 minutos). Luego pulse brevemente el botón "MODE" para confirmar.
+
+Página 10
+
+   (3) Modo de control por voz (Modo AVR): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (Modo AVR de pista, establecer nivel de AVR). Pulse brevemente el botón "MODE" para entrar. Realice el ajuste y pulse brevemente "MODE" para confirmar.
+   (4) Interruptor de escucha (Ajuste de monitor): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (OFF, ON). Pulse brevemente el botón "MODE" para confirmar (cuando seleccione "ON" para grabar de nuevo, conecte sus auriculares para escuchar el sonido que está grabando).
+   (5) Indicador de grabación (Rec Indicator): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (OFF, ON). Pulse brevemente el botón "MODE" para confirmar (Seleccione "ON" para que el indicador de grabación se ilumine, no habrá indicación de luz si selecciona "OFF" al grabar).
+   (6) Grabación programada (Timed recording): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (Grabación activada/desactivada, Ciclo de grabación programada, Hora de inicio, Hora de finalización). Pulse brevemente el botón "MODE" para entrar. Realice el ajuste y pulse brevemente "MODE" para confirmar.
+   (7) Fuente de grabación (Grabar desde): Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar (Micrófono, entrada de línea - Line-in). Pulse brevemente el botón "MODE" para confirmar.
+
+Página 11
+
+4. Idioma: Pulse brevemente el botón "MODE" para entrar. Simplemente pulse "UP" o "DOWN" para seleccionar el idioma que desee. Pulse brevemente el botón "MODE" para confirmar al finalizar (Disponible en varios idiomas).
+5. Temporizador de retroiluminación: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para elegir (Siempre encendido, 10 segundos, 20 segundos, 30 segundos). Pulse brevemente el botón "MODE" para confirmar.
+6. Brillo: Pulse brevemente el botón "MODE" para entrar. Pulse "VOL+" o "VOL-" para seleccionar el brillo de contraste (00-11 opcional). Pulse brevemente el botón "MODE" para confirmar.
+7. Espacio en disco: Pulse brevemente el botón "MODE" para entrar. Se puede consultar la capacidad total de la máquina y el espacio utilizado. Pulse brevemente "STOP" para volver al menú de ajustes.
+8. Versión de software: Pulse brevemente el botón "MODE" para entrar. Ver información del hardware y software local. Pulse brevemente "STOP" para volver al menú de ajustes.
+9. Ajustes de contraseña: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para elegir (Interruptor de contraseña, Establecer contraseña). Luego pulse brevemente el botón "MODE" para entrar. Pulse "VOL+" o "VOL-" para ajustar el número. Pulse brevemente "UP" o "DOWN" para pasar al siguiente conjunto de números a ajustar. Tras finalizar, pulse brevemente la tecla "MODE" para confirmar.
+
+Página 12
+
+10. Restablecer ajustes de fábrica: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar "sí" (yes) o "no". Pulse brevemente el botón "MODE" para confirmar (Si selecciona sí, la máquina volverá al estado de fábrica y todos los archivos se borrarán).
+11. Formatear dispositivo: Pulse brevemente el botón "MODE" para entrar. Pulse brevemente "UP" o "DOWN" para seleccionar "sí" (yes) o "no". Pulse brevemente el botón "MODE" para confirmar (Si selecciona sí, la máquina vaciará todos los archivos).
+
+Configuración de grabación LINE-IN (Necesita configurar el submenú "Grabar desde" a "Line-in" en los ajustes de grabación):
+1. A través de la interfaz LINE-IN, se puede conectar a (CD, MP3, DVD, móvil) y otros productos para la entrada directa de la fuente de audio.
+2. Grabación con micrófono externo: Después de conectar el micrófono externo a través de la interfaz LINE-IN. Se graba de la misma forma que con el micrófono incorporado.
+3. Grabación de llamadas telefónicas: Después de conectar el adaptador telefónico a través de la interfaz LINE-IN. Se graba de la misma forma que con el micrófono incorporado.
+
+Página 13
+
+Conexión al ordenador:
+1. Conecte un extremo del cable USB al puerto USB de la grabadora y el otro extremo al puerto USB de su ordenador. Tras la conexión, aparecerá el símbolo de identificación de disco en el ordenador. En este punto, puede localizar el disco para subir/bajar archivos. La pantalla de la máquina también mostrará el icono correspondiente (Descargando, Subiendo archivos, Conectando).
+2. Por favor, extraiga el disco extraíble de forma normal para evitar la pérdida de datos.
+3. Conecte la máquina al ordenador y utilícela como una memoria USB extraíble. SUBA/BAJE su música favorita u otros archivos (modo copiar/pegar). No desconecte mientras se transmiten datos; de lo contrario, podría causar pérdida de datos.
+
+Carga:
+1. Conecte el cable USB al cargador (5V-1000MA) para cargar. El icono de la batería mostrará un estado de movimiento durante la carga. Cuando el icono esté lleno, significa que la carga se ha completado (el tiempo de carga depende de la potencia del cargador).
+
+Página 14
+
+Resolución de problemas:
+- No hay pantalla:
+  - Causa: Batería baja / No está encendida.
+  - Medida: Recargar a tiempo / Encender el interruptor.
+- No graba:
+  - Causa: No está en modo grabación / Memoria llena.
+  - Medida: Poner a grabar / Borrar archivos o moverlos a otro equipo.
+- No se puede reproducir el archivo de audio:
+  - Causa: No hay archivos de audio / Volumen al mínimo.
+  - Medida: Asegurarse de que hay archivos / Ajustar el volumen.
+- Las palabras en pantalla están desordenadas:
+  - Causa: Idioma incorrecto.
+  - Medida: Elegir el idioma correcto.
+
+Página 15
+
+- No hay sonido por auriculares o altavoces:
+  - Causa: Auriculares mal conectados / Volumen al mínimo / Archivo corrupto.
+  - Medida: Reconectar auriculares / Ajustar volumen / Comprobar integridad del archivo.
+- No se pueden subir/bajar archivos correctamente:
+  - Causa: Cable USB dañado / Conexión USB anormal.
+  - Medida: Comprobar cable USB / Conectar correctamente el cable.
+
+Proclamas: La empresa no será responsable de ninguna pérdida de información derivada del uso o mantenimiento de este producto. Por lo tanto, si tiene información importante, realice copias de seguridad a tiempo.
