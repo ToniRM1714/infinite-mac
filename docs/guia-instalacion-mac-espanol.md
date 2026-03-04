@@ -114,3 +114,23 @@ Si intentas conectarte a un servicio externo y recibes un error **"504: Gateway 
 - Evitas los tiempos de espera (timeouts) de servidores externos.
 - No dependes de si una web está caída o lenta.
 - Tus conversaciones son 100% privadas y no salen de tu máquina.
+
+---
+
+## Cómo crear un Personaje en SillyTavern
+
+Crear un personaje es la parte más divertida. Sigue estos pasos:
+
+1.  En la barra superior de SillyTavern, haz clic en el icono del **busto de una persona** (Personajes).
+2.  Haz clic en el botón con el símbolo **"+"** y elige **"Create New Character"**.
+3.  **Configura los campos principales:**
+    -   **Name**: El nombre del personaje.
+    -   **Description**: Aquí describes quién es, su historia y cómo se comporta. Sé detallado para que la IA lo entienda bien.
+    -   **Personality**: Define rasgos cortos (ej: "Sarcástico, valiente, protector").
+    -   **First Message**: El primer mensaje que el personaje te enviará al empezar el chat. ¡Es vital para marcar el tono!
+4.  **Añadir una imagen**: Haz clic en el recuadro gris vacío para subir una foto desde tu ordenador.
+5.  Pulsa el botón **"Save"** (el icono del disquete) abajo a la derecha.
+
+### Truco: Importar personajes ya creados
+No tienes por qué crearlo todo de cero. Puedes descargar "tarjetas de personaje" (archivos .png que contienen la configuración) de sitios como **Chub.ai** o **SillyTavern Cards**.
+Solo tienes que arrastrar ese archivo .png dentro de la ventana de SillyTavern y el personaje se configurará solo con su descripción, imagen y personalidad.
