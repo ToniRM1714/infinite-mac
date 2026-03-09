@@ -173,3 +173,16 @@ En SillyTavern, tú también tienes una "ficha" para que el bot sepa quién eres
     -   **Description**: Describe quién eres tú. Ejemplo: "Soy un joven aventurero que busca tesoros", o "Soy el jefe de Sam". Esto ayuda a la IA a entender la relación entre vosotros.
     -   **Avatar**: Puedes subir tu propia foto haciendo clic en el recuadro de la imagen.
 4.  Puedes crear varios perfiles diferentes (Personas) si quieres jugar distintas historias con distintos nombres.
+
+---
+
+## Cómo hacer Chats de Grupo (Varios personajes a la vez)
+
+Si quieres hablar con dos o más personajes al mismo tiempo en el mismo chat, debes usar la función de **Grupo**:
+
+1.  Busca el icono de **Chat de Grupo** (parece la silueta de tres personas juntas). Suele estar arriba a la derecha.
+2.  Pulsa en **"Create New Group"**.
+3.  **Añade a los personajes:** Selecciona en la lista a los personajes que quieres que participen.
+4.  **Configura el orden:** Puedes elegir si los personajes responden por turnos o de forma aleatoria.
+
+**Nota importante:** En SillyTavern solo puede haber **un Usuario** (tú) y varios **Personajes**. Si has creado a tu segunda "persona" en el menú de Usuario, el sistema no la verá como un personaje con el que hablar. Para que estén juntos, uno debe estar creado en el menú de **Personajes** y el otro ser tú (Usuario).
