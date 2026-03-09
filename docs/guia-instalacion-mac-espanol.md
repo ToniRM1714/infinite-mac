@@ -134,3 +134,28 @@ Crear un personaje es la parte más divertida. Sigue estos pasos:
 ### Truco: Importar personajes ya creados
 No tienes por qué crearlo todo de cero. Puedes descargar "tarjetas de personaje" (archivos .png que contienen la configuración) de sitios como **Chub.ai** o **SillyTavern Cards**.
 Solo tienes que arrastrar ese archivo .png dentro de la ventana de SillyTavern y el personaje se configurará solo con su descripción, imagen y personalidad.
+
+---
+
+## De Mazmo a SillyTavern: Guía de Equivalencias
+
+Si vienes de Mazmo, aquí tienes dónde encontrar cada opción en SillyTavern:
+
+| En Mazmo | En SillyTavern | Ubicación en SillyTavern |
+| :--- | :--- | :--- |
+| **Nombre** | **Name** | Pestaña Personaje (icono busto) |
+| **Descripción** | **Description** | Pestaña Personaje -> Campo "Description" |
+| **Personalidad** | **Personality** | Pestaña Personaje -> Campo "Personality Summary" |
+| **Categorías/Etiquetas** | **Tags** | Pestaña Personaje -> Botón "Tags" (arriba) |
+| **Primer Mensaje** | **First Message** | Pestaña Personaje -> Campo "First Message" |
+| **Valores Técnicos** | **Generation Settings** | Icono de Barras Deslizantes (arriba) |
+
+### ¿Dónde están los valores técnicos (Temperatura, etc.)?
+
+En Mazmo los valores suelen estar ocultos o simplificados. En SillyTavern, haz clic en el icono de las **Barras Deslizantes** (Configuración de IA) en la parte superior:
+
+1.  **Temperatura**: Controla la "creatividad". (0.7 es equilibrado, 1.2 es muy creativo/caótico).
+2.  **Context Size**: Cuánta memoria tiene el bot. Si usas LM Studio, suele ser lo que hayas configurado en el servidor (ej: 4096 o 8192).
+3.  **Response Length**: Longitud máxima de la respuesta del bot.
+
+Para que el bot se comporte como los de Mazmo (por ejemplo, el tag **Sádique (19)** que mencionas), simplemente añade esa palabra en el campo **Personality** y refuerza su comportamiento en la **Description**. SillyTavern es mucho más sensible a lo que escribes ahí.
