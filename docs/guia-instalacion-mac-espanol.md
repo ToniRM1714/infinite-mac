@@ -166,8 +166,8 @@ Para que el bot se comporte como los de Mazmo (por ejemplo, el tag **Sádique (1
 
 En SillyTavern, tú también tienes una "ficha" para que el bot sepa quién eres y cómo debe tratarte.
 
-1.  Busca el icono de **Usuario** (silueta de una persona, normalmente en la barra de la izquierda o arriba).
-2.  Allí verás tu perfil (por defecto se llama "User").
+1.  Busca el icono de **Usuario / Persona** (es la silueta de una persona sola, **no el engranaje de ajustes**).
+2.  Una vez dentro, verás una sección llamada **"User Persona"** (o simplemente "Persona"). Allí es donde verás tu perfil (por defecto se llama "User").
 3.  **Configura tus datos:**
     -   **Name**: Tu nombre en la historia.
     -   **Description**: Describe quién eres tú. Ejemplo: "Soy un joven aventurero que busca tesoros", o "Soy el jefe de Sam". Esto ayuda a la IA a entender la relación entre vosotros.
