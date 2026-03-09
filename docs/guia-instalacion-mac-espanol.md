@@ -146,7 +146,7 @@ Si vienes de Mazmo, aquí tienes dónde encontrar cada opción en SillyTavern:
 | **Nombre** | **Name** | Pestaña Personaje (icono busto) |
 | **Descripción** | **Description** | Pestaña Personaje -> Campo "Description" |
 | **Personalidad** | **Personality** | Pestaña Personaje -> Campo "Personality Summary" |
-| **Categorías/Etiquetas** | **Tags** | Pestaña Personaje -> Botón "Tags" (arriba) |
+| **Categorías/Etiquetas** | **Tags** | Pestaña Personaje -> Botón "Tags" (arriba, icono etiqueta) |
 | **Primer Mensaje** | **First Message** | Pestaña Personaje -> Campo "First Message" |
 | **Valores Técnicos** | **Generation Settings** | Icono de Barras Deslizantes (arriba) |
 
