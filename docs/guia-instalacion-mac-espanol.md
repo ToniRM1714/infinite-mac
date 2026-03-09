@@ -186,3 +186,20 @@ Si quieres hablar con dos o más personajes al mismo tiempo en el mismo chat, de
 4.  **Configura el orden:** Puedes elegir si los personajes responden por turnos o de forma aleatoria.
 
 **Nota importante:** En SillyTavern solo puede haber **un Usuario** (tú) y varios **Personajes**. Si has creado a tu segunda "persona" en el menú de Usuario, el sistema no la verá como un personaje con el que hablar. Para que estén juntos, uno debe estar creado en el menú de **Personajes** y el otro ser tú (Usuario).
+
+---
+
+## Cómo controlar el Ritmo (Pacing) del personaje
+
+Si el bot avanza demasiado rápido en la historia o pasa de un paso a otro sin disfrutar el momento, debes darle instrucciones de **ritmo** en su **Description** o en el campo **Scenario**:
+
+### Instrucciones para "frenar" a la IA:
+Añade frases como estas al final de su descripción:
+- *"El personaje es pausado y disfruta de cada acción. No pasa al siguiente paso hasta que el usuario se lo pida explícitamente."*
+- *"Escribe respuestas largas y detalladas centrándote en el momento presente."*
+- *"Si hay una lista de pasos, el personaje debe repetir y recrearse en el paso actual varias veces antes de sugerir el siguiente."*
+
+### Uso de la Nota del Autor (Author's Note):
+Si durante el chat ves que corre mucho, puedes usar la **Nota del Autor** (en el icono de Extensiones -> Author's Note):
+- Escribe allí: *"[Ritmo: lento. Céntrate en repetir la acción actual y no avances en la lista]"*.
+Esto actúa como un recordatorio constante para la IA mientras habláis.
