@@ -159,3 +159,17 @@ En Mazmo los valores suelen estar ocultos o simplificados. En SillyTavern, haz c
 3.  **Response Length**: Longitud máxima de la respuesta del bot.
 
 Para que el bot se comporte como los de Mazmo (por ejemplo, el tag **Sádique (19)** que mencionas), simplemente añade esa palabra en el campo **Personality** y refuerza su comportamiento en la **Description**. SillyTavern es mucho más sensible a lo que escribes ahí.
+
+---
+
+## Cómo configurar tu propio Perfil (Tu Personaje)
+
+En SillyTavern, tú también tienes una "ficha" para que el bot sepa quién eres y cómo debe tratarte.
+
+1.  Busca el icono de **Usuario** (silueta de una persona, normalmente en la barra de la izquierda o arriba).
+2.  Allí verás tu perfil (por defecto se llama "User").
+3.  **Configura tus datos:**
+    -   **Name**: Tu nombre en la historia.
+    -   **Description**: Describe quién eres tú. Ejemplo: "Soy un joven aventurero que busca tesoros", o "Soy el jefe de Sam". Esto ayuda a la IA a entender la relación entre vosotros.
+    -   **Avatar**: Puedes subir tu propia foto haciendo clic en el recuadro de la imagen.
+4.  Puedes crear varios perfiles diferentes (Personas) si quieres jugar distintas historias con distintos nombres.
