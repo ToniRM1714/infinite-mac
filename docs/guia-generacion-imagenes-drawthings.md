@@ -43,3 +43,23 @@ Para que SillyTavern pueda enviarle órdenes a Draw Things, primero debemos acti
 -   **Sin Errores:** A diferencia de ComfyUI, Draw Things no suele dar errores de "validación de API" si está el servidor encendido.
 
 ¡Disfruta viendo a tus personajes cobrar vida!
+
+---
+
+## Solución de Problemas y Conceptos Clave
+
+### ¿Por qué la imagen no se parece a lo que dice el chat?
+SillyTavern intenta resumir el último mensaje para enviárselo a Draw Things. Si quieres mejorar esto, configura lo siguiente en la pestaña de **Extensiones -> Image Generation**:
+
+1.  **Character Visual Description**: En la ficha del personaje, asegúrate de rellenar el campo de descripción visual (pelo, ropa, rasgos). SillyTavern añadirá esto a todas las imágenes para que el personaje siempre sea el mismo.
+2.  **Prompt Prefix/Suffix**: Añade palabras como `masterpiece, high quality, realistic` para mejorar el estilo artístico.
+3.  **Uso de la IA para el Prompt**: Puedes configurar que sea **LM Studio** quien redacte el "prompt" de la imagen basándose en la historia, en lugar de que SillyTavern simplemente copie el último párrafo.
+
+### El papel de LM Studio vs Draw Things
+Es normal preguntarse: *¿Para qué necesito LM Studio si puedo copiar el texto en Draw Things yo mismo?*
+
+-   **LM Studio (El Escritor):** Se encarga de la lógica, la memoria y la personalidad. Entiende la historia y decide *qué* está pasando.
+-   **Draw Things (El Pintor):** Solo sabe pintar lo que le pides en el momento. No sabe quién eres tú ni qué pasó hace diez mensajes.
+-   **SillyTavern (El Director):** Conecta a ambos. SillyTavern lee lo que LM Studio escribe, extrae la esencia visual y le dice a Draw Things qué pintar de forma automática.
+
+La ventaja es la **automatización y la coherencia**: no tienes que salir del chat ni copiar/pegar nada; la imagen aparece como parte de la experiencia narrativa.
