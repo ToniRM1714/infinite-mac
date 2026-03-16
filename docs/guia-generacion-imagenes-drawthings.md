@@ -63,3 +63,16 @@ Es normal preguntarse: *¿Para qué necesito LM Studio si puedo copiar el texto 
 -   **SillyTavern (El Director):** Conecta a ambos. SillyTavern lee lo que LM Studio escribe, extrae la esencia visual y le dice a Draw Things qué pintar de forma automática.
 
 La ventaja es la **automatización y la coherencia**: no tienes que salir del chat ni copiar/pegar nada; la imagen aparece como parte de la experiencia narrativa.
+
+---
+
+## Cómo hacer que LM Studio redacte las descripciones automáticamente
+
+Si no quieres que SillyTavern se limite a copiar el último mensaje, puedes pedirle a **LM Studio** que redacte una descripción artística (un "prompt") por ti.
+
+1.  Ve a la pestaña de **Extensiones** (pieza de puzzle) -> **Image Generation**.
+2.  Busca la sección **"Prompt Creation"**.
+3.  En **"Prompt Mode"**, selecciona **"Main LLM"**. Esto le dirá a SillyTavern que le pregunte a LM Studio qué debe dibujar.
+4.  En el cuadro **"Prompt for Prompt"**, puedes poner una instrucción como esta:
+    -   *"Redacta un prompt de imagen corto y descriptivo en inglés basado en el último mensaje del chat. Céntrate en la apariencia, la ropa y el entorno. Solo devuelve el prompt, sin introducciones."*
+5.  **Aviso de rendimiento:** Ten en cuenta que esto hará que LM Studio trabaje el doble (primero para responderte al chat y luego para pensar la imagen), por lo que tardará unos segundos más.
