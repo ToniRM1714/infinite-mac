@@ -73,6 +73,6 @@ Si no quieres que SillyTavern se limite a copiar el último mensaje, puedes pedi
 1.  Ve a la pestaña de **Extensiones** (pieza de puzzle 🧩) y haz clic en la opción **"Image Generation"**. Se abrirá un panel nuevo a la derecha.
 2.  Dentro de ese panel, desliza hacia abajo hasta encontrar el título que pone **"Prompt Creation"**.
 3.  En **"Prompt Mode"**, selecciona **"Main LLM"**. Esto le dirá a SillyTavern que le pregunte a LM Studio qué debe dibujar.
-4.  En el cuadro **"Prompt for Prompt"**, puedes poner una instrucción como esta:
+4.  En el cuadro **"Prompt for Prompt"** (que en español suele aparecer como **"Aviso para aviso"** o **"Instrucciones de creación"**), puedes poner una instrucción como esta:
     -   *"Redacta un prompt de imagen corto y descriptivo en inglés basado en el último mensaje del chat. Céntrate en la apariencia, la ropa y el entorno. Solo devuelve el prompt, sin introducciones."*
 5.  **Aviso de rendimiento:** Ten en cuenta que esto hará que LM Studio trabaje el doble (primero para responderte al chat y luego para pensar la imagen), por lo que tardará unos segundos más.
