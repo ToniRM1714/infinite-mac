@@ -51,7 +51,20 @@ Si SheepShaver se abre en pantalla completa y no ves el menú de arriba para ent
 
 ---
 
-## 5. Problema con el "Unix Root"
+## 5. El mensaje "This disk is unreadable. Do you want to initialize it?"
+
+Si al iniciar el Sistema 9 te sale un mensaje preguntando si quieres **"Inicializar el disco"**, **¡NO LO HAGAS!** Eso borraría todos los datos del disco "Macintosh HD Final".
+
+1.  **Cancela** el mensaje.
+2.  **Cierra SheepShaver**.
+3.  **Verifica los permisos en macOS**: Busca el archivo `Macintosh HD Final` en tu Mac, haz clic derecho y selecciona **"Obtener información"**. Asegúrate de que tu usuario tenga **"Lectura y escritura"** y que la casilla **"Bloqueado"** NO esté marcada.
+4.  **Verifica el formato del archivo**: SheepShaver suele usar archivos con extensión `.dsk` o `.img`. Si el archivo es un `.dmg` moderno de macOS, es posible que el Sistema 9 no sepa leerlo.
+5.  **Orden de los discos**: En la pestaña **Volumes** de las Preferencias, asegúrate de que el disco con el sistema operativo instalado esté el **primero** en la lista. El disco adicional debe estar el segundo.
+6.  **Tamaño del disco**: Recuerda que el Sistema 9 tiene dificultades para leer discos de más de 2GB o 4GB (dependiendo de la versión). Si el archivo es demasiado grande, el sistema no podrá reconocerlo.
+
+---
+
+## 6. Problema con el "Unix Root"
 
 Si estás usando la carpeta compartida "Unix" para mover archivos, a veces esto causa conflictos visuales.
 
