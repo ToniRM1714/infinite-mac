@@ -64,12 +64,18 @@ Si al iniciar el Sistema 9 te sale un mensaje preguntando si quieres **"Iniciali
 
 ---
 
-## 6. Problema con el "Unix Root"
+## 6. Cómo usar una carpeta compartida (Unix Root)
 
-Si estás usando la carpeta compartida "Unix" para mover archivos, a veces esto causa conflictos visuales.
+Si lo que quieres usar es una **carpeta** de tu Mac actual para pasar archivos al Sistema 9, no debes añadirla en la lista de "Volumes" como si fuera un disco duro. En su lugar, usa la función **Unix Root**:
 
--   Asegúrate de que no haya un conflicto de nombres entre la carpeta compartida y el nombre de tu disco duro.
--   Intenta arrancar SheepShaver sin ningún CD virtual (archivo .iso o .toast) cargado, para descartar que el sistema esté intentando leer el CD en lugar del disco duro.
+1.  **Cierra SheepShaver**.
+2.  En las **Preferencias** (o **Settings**), busca la sección que dice **"Unix Root"** o **"Shared Folder"**.
+3.  Pulsa en **"Browse..."** y selecciona la carpeta de tu Mac (en tu caso, "Macintosh HD final").
+4.  **Guarda** y arranca SheepShaver.
+5.  En el escritorio de Mac OS 9 aparecerá un disco llamado **"Unix"**. Todo lo que pongas en tu carpeta del Mac aparecerá dentro de ese disco.
+
+### Consejo de uso:
+Para evitar errores de lectura, te recomendamos **copiar los archivos** del disco "Unix" al disco duro principal del Sistema 9 antes de ejecutarlos.
 
 ---
 
