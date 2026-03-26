@@ -38,7 +38,20 @@ Si el sistema arranca pero el segundo disco no aparece, puede que el Sistema 9 l
 
 ---
 
-## 4. Problema con el "Unix Root"
+## 4. Recuperar la barra de menús (Modo Pantalla Completa)
+
+Si SheepShaver se abre en pantalla completa y no ves el menú de arriba para entrar en Preferencias:
+
+1.  **Sal del modo pantalla completa**: Pulsa **Control + Enter** (o **Command + Enter**) mientras el emulador está en primer plano. Esto pasará a modo ventana y verás el menú arriba.
+2.  **Si no funciona**: Debes editar el archivo de configuración oculto.
+    -   Abre el **Terminal** en macOS.
+    -   Escribe `nano ~/.sheepshaver_prefs` y pulsa Enter.
+    -   Busca la línea `fullscreen true` y cámbiala a `fullscreen false`.
+    -   Guarda con **Control+O**, pulsa Enter y sal con **Control+X**.
+
+---
+
+## 5. Problema con el "Unix Root"
 
 Si estás usando la carpeta compartida "Unix" para mover archivos, a veces esto causa conflictos visuales.
 
