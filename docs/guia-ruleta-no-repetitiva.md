@@ -1,43 +1,38 @@
-# Guía: Ruleta No Repetitiva
+# Guía: Ruleta No Repetitiva (Web y Mac)
 
-Esta guía explica cómo implementar una "ruleta" que selecciona opciones al azar sin repetirlas y cambia a un nuevo conjunto de opciones una vez que se agotan las actuales.
+Si buscas una aplicación ya lista o una solución visual para tu Mac, aquí tienes las mejores opciones:
 
-## Lógica del Sistema
+## 1. Aplicación Web Personalizada (Recomendado)
+He creado una pequeña "App" web para ti que puedes ejecutar directamente en tu Mac sin instalar nada.
 
-Para evitar que una opción se repita, no debemos usar un generador de números aleatorios simple cada vez. En su lugar, debemos usar un sistema de **muestreo sin reemplazo**:
+**Cómo usarla:**
+1.  Busca el archivo `scripts/ruleta.html` en este repositorio.
+2.  Haz doble clic para abrirlo en tu navegador (Safari o Chrome).
+3.  Podrás configurar tus listas (Ruleta 1, Ruleta 2, etc.) y la app se encargará de:
+    *   No repetir ninguna opción.
+    *   Pasar automáticamente a la siguiente lista cuando se acaben las opciones.
 
-1.  **Cargar el conjunto**: Tomas tus 3 opciones iniciales.
-2.  **Mezclar (Shuffle)**: Desordenas la lista al azar.
-3.  **Consumir**: Vas extrayendo elementos de esa lista mezclada uno a uno.
-4.  **Transición**: Cuando la lista esté vacía, cargas el siguiente conjunto (las 5 opciones) y repites el proceso.
+## 2. Aplicaciones para Mac (App Store)
+Si prefieres una aplicación instalada desde la App Store, te recomiendo:
 
-## Ejemplo en Python
+*   **Spin the Wheel - Pick Me**:
+    *   **Ventaja**: Es muy visual y profesional.
+    *   **Cómo configurar la no repetición**: En las opciones de la ruleta, busca el ajuste **"Remove Winners"** o **"No Repeat"**. Esto hará que la opción que salga se elimine de la ruleta.
+    *   *Nota*: Para pasar a la siguiente ruleta de 5 opciones, tendrías que cambiar de lista manualmente después de agotar la de 3.
 
-He incluido un script en `scripts/ruleta.py` que demuestra exactamente esta lógica. Puedes ejecutarlo para ver cómo funciona:
+## 3. Herramientas Web Gratuitas
+Existen webs muy potentes que funcionan en el navegador de tu Mac:
 
-```bash
-python3 scripts/ruleta.py
-```
+*   **Wheel of Names (wheelofnames.com)**:
+    *   Es la más popular.
+    *   Después de cada giro, te pregunta si quieres **"Eliminar" (Remove)** la opción ganadora.
+    *   Permite tener varias pestañas o listas guardadas para cambiar entre ellas.
 
-### Código de ejemplo:
+---
 
-```python
-import random
+### Resumen de funcionamiento lógico
+Independientemente de la app que uses, la regla de oro para lo que pides es:
+1.  **Activar "Eliminar después de girar"**: Para evitar repeticiones.
+2.  **Preparar listas secuenciales**: Tener tus grupos (3 opciones, 5 opciones...) listos para cargar uno tras otro.
 
-ruletas = [
-    ["Opcion 1", "Opcion 2", "Opcion 3"],
-    ["A", "B", "C", "D", "E"]
-]
-
-for opciones in ruletas:
-    random.shuffle(opciones)
-    for seleccion in opciones:
-        print(f"Resultado: {seleccion}")
-```
-
-## Aplicación en Juegos o Chatbots
-
-Si estás usando esto en un entorno de Rol o Chat (como SillyTavern o Mazmo):
-
-1.  **Prompt Engineering**: Puedes instruir a la IA diciéndole: "Tienes una lista de opciones [A, B, C]. Elige una que no hayas usado antes. Cuando las uses todas, pasa a la lista [1, 2, 3, 4, 5]".
-2.  **Variables de Estado**: Necesitarás guardar en una variable qué opciones han salido ya para que la lógica persista entre turnos.
+Si quieres algo 100% automático que pase de la Ruleta 1 a la Ruleta 2 sin que tú hagas nada, el archivo **`ruleta.html`** que te he preparado es la mejor opción.
