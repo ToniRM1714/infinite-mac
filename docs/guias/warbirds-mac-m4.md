@@ -9,35 +9,34 @@ Además, aunque los Macs modernos incluyen **Rosetta 2** (un traductor que permi
 
 ---
 
-## Soluciones Disponibles
+## Soluciones Sencillas (Hardware Existente)
 
-### 1. Ejecutar la versión de Windows (Recomendado)
-El procesador M4 es extremadamente potente y puede ejecutar la versión de Windows de WarBirds a través de virtualización o capas de compatibilidad.
+Si dispones de equipos antiguos o un PC, estas son las opciones más directas:
 
+### 1. Usar un Portátil PC (Recomendado)
+Instalar la versión de Windows directamente en un PC portátil.
+* **Ventaja:** Es la versión más estable y compatible con todos los periféricos y Joysticks sin necesidad de configuraciones complejas en macOS.
+
+### 2. Usar Macs antiguos mediante "Compartir Pantalla"
+Si ya tienes WarBirds funcionando en un Mac mini antiguo, puedes controlarlo desde tu Mac M4:
+1. **En el Mac antiguo:** Activa *Compartir Pantalla* en los ajustes de Compartir.
+2. **En el Mac M4:** Abre la aplicación *Compartir Pantalla* y conéctate al Mac antiguo.
+3. Podrás jugar en una ventana de tu nuevo Mac utilizando la potencia del antiguo.
+
+---
+
+## Soluciones Técnicas en el Mac M4
+
+### 1. Ejecutar la versión de Windows en el M4
 #### Opción A: Virtualización con VMWare Fusion (Gratis) o Parallels
-Esta es la opción más estable. Permite instalar Windows 11 dentro de tu Mac.
-1. **Descarga VMWare Fusion Pro**: Actualmente es gratuito para uso personal.
-2. **Instala Windows 11**: El asistente de VMWare te guiará para descargar e instalar la versión ARM de Windows 11 automáticamente.
-3. **Instala el juego**: Una vez dentro de Windows, descarga WarBirds desde [TotalSims.com](http://www.totalsims.com) o Steam. Windows 11 ARM tiene un traductor integrado que permite ejecutar juegos de 32 bits de Intel sin problemas.
-
+Permite instalar Windows 11 dentro de tu Mac. Windows 11 ARM puede ejecutar el juego de 32 bits mediante su propio traductor.
 #### Opción B: Capas de compatibilidad (Whisky o CrossOver)
-Permiten ejecutar el juego de Windows sin necesidad de instalar Windows completo.
-* **Whisky (Gratis)**: Basado en Wine y el Game Porting Toolkit de Apple. Es muy ligero y fácil de usar.
-* **CrossOver (De pago)**: Ofrece un soporte más pulido y asistencia técnica.
+Ejecutan el programa de Windows sin instalar el sistema operativo completo.
 
 ### 2. Versión de iPad en el Mac
-Como tu Mac tiene un procesador M4, puede ejecutar aplicaciones diseñadas para iPad.
-1. Abre la **App Store** en tu Mac.
-2. Busca "WarBirds".
-3. Cambia a la pestaña **"Apps para iPhone e iPad"** en la parte superior de los resultados.
-4. Si aparece "WarBirds Fighter Pilot Academy", puedes instalarla y jugar de forma nativa.
-
-### 3. Alternativas Nativas para Apple Silicon
-Si buscas una experiencia de simulación de vuelo que aproveche toda la potencia de tu Mac mini M4 de forma nativa:
-* **X-Plane 12**: El estándar en simulación de vuelo para Mac, con soporte nativo completo para Apple Silicon.
-* **War Thunder**: Un juego de combate aéreo (y tanques) muy popular que funciona nativamente en Steam para Mac y rinde excepcionalmente bien en procesadores M-series.
+Busca "WarBirds Fighter Pilot Academy" en la Mac App Store bajo la pestaña "Apps para iPhone e iPad".
 
 ---
 
 ## Periféricos y Joysticks
-La mayoría de los mandos de vuelo (Joysticks) estándar son reconocidos por macOS. Si tu mando es antiguo y usa USB-A, necesitarás un adaptador USB-C para conectarlo a tu Mac mini M4. macOS Sequoia suele configurar estos dispositivos automáticamente bajo el estándar HID.
+La mayoría de los Joysticks estándar son reconocidos por macOS. Si tu mando usa USB-A, necesitarás un adaptador USB-C para el Mac mini M4.
